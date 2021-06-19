@@ -1,3 +1,3 @@
-# Get Started with React authXap!
+# React authXap!
 
 Firebase authentication
